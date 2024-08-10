@@ -1,4 +1,3 @@
-```
 ## AI-Powered Music Recommendation Chatbot
 
 This AI-powered music recommendation chatbot interacts with users, analyzes the mood and sentiment of the conversation, and provides a Spotify playlist that matches the user's mood.
